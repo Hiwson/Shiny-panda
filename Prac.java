@@ -1,4 +1,4 @@
-public class Main {
+public class Prac{
 	public static void main(String[] args) {
 		String fName = "Dennis";
 		String lName = "Jakes";

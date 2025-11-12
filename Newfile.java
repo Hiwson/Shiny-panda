@@ -1,4 +1,4 @@
-public class Main {
+public class Newfile{
 	public static void main(String[] args) {
 	    String Name = "Jeff";
     System.out.println("Hello world!" + " "+Name);
