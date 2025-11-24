@@ -23,8 +23,8 @@ public class Main{
         System.out.println("\nName of user is "+fname.concat(lname));
         
         //java maths
+	System.out.println("\nMax btn 8 & 18 no is "+Math.max(18,8));
+	System.out.println("Square root of 225 is "+Math.sqrt(225));
+	System.out.println("Random number is " + (Math.random()*101));
     }
 }
-        
-    
-//type casting
